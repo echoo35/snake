@@ -1,0 +1,2 @@
+# snake
+js ile yapildi
