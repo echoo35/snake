@@ -1,0 +1,4 @@
+body {
+    font-family: 'Courier New', Courier, monospace; /* Metinlerin Courier New fontuyla, eğer yoksa Courier ile ya da monospace fontlarıyla görüntülenmesini sağlar. */
+    text-align: center; /* Sayfa içeriğinin yatayda merkezlenmesini sağlar. */
+}
